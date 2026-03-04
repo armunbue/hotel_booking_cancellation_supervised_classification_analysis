@@ -1,4 +1,4 @@
-# Predictive Modeling of Hotel Booking Cancellations to Support Strategic Revenue Management
+# Predictive Modeling of Hotel Booking Cancellations for Strategic Revenue Optimization
 
 - **Dataset:** https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data?select=hotel_bookings.csv
 - **Target:** `is_canceled`
