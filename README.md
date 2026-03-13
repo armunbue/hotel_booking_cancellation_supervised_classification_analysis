@@ -171,3 +171,9 @@ Monitor recall, precision, revenue uplift, and cancellation reduction regularly 
 ## Conclusion
 
 The recall-optimized predictive model (F2-score = 0.834) enables proactive revenue protection and operational efficiency. By prioritizing cancellation detection, the hotel can reduce revenue loss, improve occupancy and RevPAR, and implement data-driven pricing and channel strategies.
+
+
+Sources:
+- PPT: https://www.canva.com/design/DAHC5MbuStc/j-BqHM8DCmw4mzTcldxI-g/edit
+- Tableau: https://public.tableau.com/app/profile/muhammad.arief.munazat/viz/HotelBookingAnalysis_17720479259720/ExecutiveDashboard?publish=yes
+- Strimlit: https://hotel-team-beta.streamlit.app/
